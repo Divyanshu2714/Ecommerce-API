@@ -1,0 +1,10 @@
+Django==5.2.17
+djangorestframework==3.18.0
+djangorestframework-simplejwt==5.5.1
+django-filter==26.1
+drf-spectacular==0.28.0
+python-dotenv==1.1.1
+mysqlclient==2.2.8
+pytest
+pytest-django
+pytest-cov
